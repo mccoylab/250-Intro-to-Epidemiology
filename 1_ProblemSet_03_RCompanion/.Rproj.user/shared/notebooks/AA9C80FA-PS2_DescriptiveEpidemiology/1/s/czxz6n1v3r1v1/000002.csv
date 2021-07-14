@@ -1,0 +1,5 @@
+"0","# Keep in mind that order matters when you input the two variables into the CS command. The first variable in the CS command is the outcome (""chd_ever"") and the second variable is the exposure (""short""). "
+"0",""
+"0","CS(nhanes, ""chd_ever"", ""short"", full=FALSE) "
+"1","$df1
+"

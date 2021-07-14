@@ -1,0 +1,5 @@
+"0","#Answer
+CS(nhanes, diabetes, short, full=FALSE)
+"
+"2","Error in `[.data.frame`(x, , cases) : object 'diabetes' not found
+"
