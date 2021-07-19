@@ -1,5 +1,0 @@
-"0",""
-"0","# Try executing this setup code by clicking the green 'Run' arrow or by placing your cursor inside the code chunk and pressing Cmd+Enter (Mac) or Ctrl+Enter (Windows)"
-"0",""
-"0","knitr::opts_chunk$set(echo = TRUE, eval=T)"
-"0",""

@@ -1,5 +1,0 @@
-"0","#This code sets the working directory. It tells R where to find the data and how to import it. Here, we're telling R that our working directory is ""/cloud/project"" and that the data are stored in comma-separated file (CSV) format, which means the individual data values are separated by commas."
-"0",""
-"0","setwd(""PS2_2021"")"
-"2","Error in setwd(""PS2_2021"") : cannot change working directory
-"
