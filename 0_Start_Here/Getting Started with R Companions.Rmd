@@ -91,6 +91,6 @@ If you receive a message indicating that packages need to be installed, select t
 
 **Step 5:** Save the resulting Word document as follows: PH250A_PS3_KN. Replace the ‘3’ with the number of the data analysis companion (3, 5, 7, or 11), and replace KN with your own initials. 
 
-**Step 6:** Upload your Word document to the appropriate assignment on bCourses before the deadline. (Late submissions will not receive credit - see Gradescope for details.)
+**Step 6:** Upload your Word document to the appropriate assignment on bCourses before the deadline. (Late submissions will not receive credit - see bCourses for details.)
 
 That's it! We're excited to introduce you to R and hope these data analysis companions provide a glimpse into the real world of epidemiology.

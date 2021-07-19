@@ -322,4 +322,4 @@ As a reminder, here's how create a file to submit for extra credit:
 
 5. Save the resulting Word document as follows: PH250A_PS11_KN. Replace KN with your own initials. 
 
-6. Upload your Word document to the appropriate assignment on bCourses before the deadline. (Late submissions will not receive credit - see Gradescope for details.)
+6. Upload your Word document to the appropriate assignment on bCourses before the deadline. (Late submissions will not receive credit - see bCourses for details.)
