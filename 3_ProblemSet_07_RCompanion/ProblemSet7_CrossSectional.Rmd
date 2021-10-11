@@ -269,7 +269,7 @@ help(CS)
 
 ```
 
-*Hint: There should be 4 arguments. The first is the name of your data (nhanes), the second is the name of the column corresponding to the outcome ("dpq_bin"), the third is the name of the column corresponding to the exposure ("vitf_def"), and the last should say: full=FALSE. Remember the name of the data doesn't need quotations around it, but the names of the columns do.*
+*Hint: There should be 4 arguments. The first is the name of your data (nhanes), the second is the name of the column corresponding to the outcome ("dpq_bin"), the third is the name of the column corresponding to the exposure ("vitd_def"), and the last should say: full=FALSE. Remember the name of the data doesn't need quotations around it, but the names of the columns do.*
 
 Note that we are using the CS command here for cohort studies, but the ratio measure being calculated for this sample is a prevalence ratio since all data were collected at one point in time. 
 
